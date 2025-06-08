@@ -1,2 +1,2 @@
 # hello-world
-Aprendendo Media Query
+Aprendendo Media Query com pfofessor Guanabara 
